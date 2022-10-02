@@ -1,0 +1,56 @@
+﻿Bib	Name	First name	Last name	Distance	Category	Gender	Time	Start	Finish
+201	Johan Bugge	Johan	Bugge	10 km	23-34 år	Male	0:31:33	0:05:00	0:36:33
+203	Bjørnar Kjønnøy Slettvåg	Bjørnar Kjønnøy	Slettvåg	10 km	35-39 år	Male	0:34:20	0:05:00	0:39:20
+202	Morten Eilifsen	Morten	Eilifsen	10 km	35-39 år	Male	0:36:07	0:05:00	0:41:07
+204	Sturle Starheim	Sturle	Starheim	10 km	45-49 år	Male	0:36:38	0:05:00	0:41:38
+209	Øyvind Bugge	Øyvind	Bugge	10 km	23-34 år	Male	0:39:17	0:05:00	0:44:17
+205	Helene Herje	Helene	Herje	10 km	35-39 år	Female	0:39:45	0:05:00	0:44:45
+206	Torstein Svendsgaard	Torstein	Svendsgaard	10 km	23-34 år	Male	0:39:49	0:05:00	0:44:49
+210	Arunas Saunorius	Arunas	Saunorius	10 km	40-44 år	Male	0:40:29	0:05:00	0:45:29
+216	Ida Lindkvist	Ida	Lindkvist	10 km	23-34 år	Female	0:41:15	0:05:00	0:46:15
+213	Joakim Lokna	Joakim	Lokna	10 km	23-34 år	Male	0:41:27	0:05:00	0:46:27
+208	Terje Strand	Terje	Strand	10 km	40-44 år	Male	0:41:37	0:05:00	0:46:37
+207	Marianne Standal	Marianne	Standal	10 km	45-49 år	Female	0:41:42	0:05:00	0:46:42
+214	Eivind Lilleås	Eivind	Lilleås	10 km	35-39 år	Male	0:41:51	0:05:00	0:46:51
+211	Kjetil Lorentzen	Kjetil	Lorentzen	10 km	23-34 år	Male	0:42:04	0:05:00	0:47:04
+215	Marta Ulvensøen	Marta	Ulvensøen	10 km	23-34 år	Female	0:43:23	0:05:00	0:48:23
+217	Thomas Kristoffer Tennøy	Thomas Kristoffer	Tennøy	10 km	35-39 år	Male	0:44:28	0:05:00	0:49:28
+218	Olaf Anders Høystakli	Olaf Anders	Høystakli	10 km	23-34 år	Male	0:46:03	0:05:00	0:51:03
+219	Frida Cecilie Elvemo	Frida Cecilie	Elvemo	10 km	23-34 år	Female	0:46:11	0:05:00	0:51:11
+212	Torgeir Janbu	Torgeir	Janbu	10 km	23-34 år	Male	0:47:36	0:05:00	0:52:36
+221	Knut Vidar Haukebø Siem	Knut Vidar Haukebø	Siem	10 km	35-39 år	Male	0:47:37	0:05:00	0:52:37
+220	Kent Ronny Hammerø	Kent Ronny	Hammerø	10 km	35-39 år	Male	0:48:50	0:05:00	0:53:50
+222	Peder Ringdal	Peder	Ringdal	10 km	75-79 år	Male	0:55:34	0:05:00	1:00:34
+223	Hege Fagerli	Hege	Fagerli	10 km	40-44 år	Female	DNS		
+301	Preben Grønseth	Preben	Grønseth	5 km	20-22 år U23	Male	0:17:33	0:15:00	0:32:33
+302	Thomas Hetland	Thomas	Hetland	5 km	40-44 år	Male	0:18:12	0:15:00	0:33:12
+307	Brage Bjerkeli	Brage	Bjerkeli	5 km	12 år	Male	0:18:52	0:15:00	0:33:52
+309	Ola Gjøen Megård	Ola Gjøen	Megård	5 km	13 år	Male	0:18:55	0:15:00	0:33:55
+304	Are Uran	Are	Uran	5 km	45-49 år	Male	0:19:02	0:15:00	0:34:02
+311	Håvard Bjerkeli	Håvard	Bjerkeli	5 km	40-44 år	Male	0:19:19	0:15:00	0:34:19
+305	Emil Aslaksen Røed	Emil Aslaksen	Røed	5 km	14-15 år	Male	0:19:49	0:15:00	0:34:49
+314	Runar Dahl Røsand	Runar	Dahl Røsand	5 km	35-39 år	Male	0:19:55	0:15:00	0:34:55
+318	Mads Kirkreit Gjethammer	Mads Kirkreit	Gjethammer	5 km	14-15 år	Male	0:19:57	0:15:00	0:34:57
+310	Kolbjørn Hjertvik	Kolbjørn	Hjertvik	5 km	65-69 år	Male	0:20:40	0:15:00	0:35:40
+312	Marit Bjerkeli	Marit	Bjerkeli	5 km	40-44 år	Female	0:20:53	0:15:00	0:35:53
+315	Tom Skar	Tom	Skar	5 km	45-49 år	Male	0:21:13	0:15:00	0:36:13
+313	Frode Holthe	Frode	Holthe	5 km	45-49 år	Male	0:21:39	0:15:00	0:36:39
+306	Henrik Malme	Henrik	Malme	5 km	13 år	Male	0:22:35	0:15:00	0:37:35
+308	Sander Nerland Roksvaag	Sander Nerland	Roksvaag	5 km	14-15 år	Male	0:22:54	0:15:00	0:37:54
+316	Frank Fylling	Frank	Fylling	5 km	40-44 år	Male	0:23:08	0:15:00	0:38:08
+319	Marius Femoen	Marius	Femoen	5 km	11 år	Male	0:24:32	0:15:00	0:39:32
+317	Ida Brakstad Orset	Ida Brakstad	Orset	5 km	13 år	Female	0:24:36	0:15:00	0:39:36
+321	Embla Fagerli	Embla	Fagerli	5 km	13 år	Female	0:25:28	0:15:00	0:40:28
+303	Lillian Maria Langset	Lillian Maria	Langset	5 km	23-34 år	Female	0:26:52	0:15:00	0:41:52
+320	Julie Femoen	Julie	Femoen	5 km	12 år	Female	DNS		
+322	Caroline Gjerde	Caroline	Gjerde	5 km	12 år	Female	DNS		
+101	Sebastian Krogvig	Sebastian	Krogvig	Halvmaraton	23-34 år	Male	1:15:49	0:00:00	1:15:49
+102	Ingvar Grønseth	Ingvar	Grønseth	Halvmaraton	45-49 år	Male	1:30:49	0:00:00	1:30:49
+103	Erik Fuglseth	Erik	Fuglseth	Halvmaraton	40-44 år	Male	1:32:29	0:00:00	1:32:29
+104	Ola Stranden Andersen	Ola	Stranden Andersen	Halvmaraton	23-34 år	Male	1:34:19	0:00:00	1:34:19
+108	Victoria Heggdal Voie	Victoria Heggdal	Voie	Halvmaraton	23-34 år	Female	1:35:32	0:00:00	1:35:32
+105	Linda Hovde	Linda	Hovde	Halvmaraton	35-39 år	Female	1:40:53	0:00:00	1:40:53
+106	Eivind Fagerli	Eivind	Fagerli	Halvmaraton	40-44 år	Male	1:47:27	0:00:00	1:47:27
+107	Robert Oshaug	Robert	Oshaug	Halvmaraton	45-49 år	Male	1:55:08	0:00:00	1:55:08
+109	Ingebjørg Klausen	Ingebjørg	Klausen	Halvmaraton	45-49 år	Female	DNS		
+110	Siv Anita Klausen Bergseth	Siv Anita Klausen	Bergseth	Halvmaraton	45-49 år	Female	DNS		

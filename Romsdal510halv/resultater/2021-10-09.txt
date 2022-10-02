@@ -1,0 +1,48 @@
+﻿Bib	Name	First name	Last name	Team name	Distance	Category	Year of birth	Gender	Time	Start	Finish
+206	Bjørn Erik Langstein	Bjørn Erik	Langstein	Tomrefjord IL	10 km	23-34 år		Male	0:35:03	2:05:00	2:40:03
+208	Eskil Engdahl	Eskil	Engdahl	Torvikbukt Il	10 km	20-22 år U23		Male	0:35:38	2:05:00	2:40:38
+225	Øyvind Øverås			Eidsvåg IL	10 km	23-34 år	1997	Male	0:37:28	2:05:00	2:42:28
+221	Stian Heggdal Leganger	Stian	Heggdal Leganger	Trollveggen Triathlon	10 km	23-34 år		Male	0:37:29	2:05:00	2:42:29
+216	Ola Sjømæling	Ola	Sjømæling	Øre Bygdalag	10 km	23-34 år		Male	0:38:34	2:05:00	2:43:34
+219	Richard W. Naas	Richard W.	Naas	Team Lbt	10 km	23-34 år		Male	0:39:05	2:05:00	2:44:05
+209	Håkon Myrmo	Håkon	Myrmo	Rennebu IL	10 km	23-34 år		Male	0:39:10	2:05:00	2:44:10
+204	Asbjørn Slåtta	Asbjørn	Slåtta	Hustadvika Kommune	10 km	40-44 år		Male	0:41:25	2:05:00	2:46:25
+205	Åsmund Kleivenes	Åsmund	Kleivenes	Idrett Uten Alkohol	10 km	50-54 år		Male	0:41:31	2:05:00	2:46:31
+217	Ole Birger Ulseth	Ole Birger	Ulseth	IL Norodd	10 km	50-54 år		Male	0:42:04	2:05:00	2:47:04
+222	Thomas Kristoffer Tennøy	Thomas Kristoffer	Tennøy	Hjelset Kleive Fotball	10 km	40-44 år		Male	0:43:16	2:05:00	2:48:16
+215	Nikolay Bruseth	Nikolay	Bruseth	TB	10 km	23-34 år		Male	0:44:08	2:05:00	2:49:08
+213	Marie Hoel Ulseth	Marie Hoel	Ulseth	IL Norodd	10 km	23-34 år		Female	0:45:43	2:05:00	2:50:43
+224	Vidar Hansen	Vidar	Hansen	Trollveggen Triathlonklubb	10 km	40-44 år		Male	0:46:33	2:05:00	2:51:33
+211	Ingebjørg Klausen	Ingebjørg	Klausen	Trollveggen Triatlon	10 km	45-49 år		Female	0:47:07	2:05:00	2:52:07
+201	Alf Rokstad	Alf	Rokstad	Molde	10 km	35-39 år		Male	0:50:29	2:05:00	2:55:29
+212	Magnus Austvik	Magnus	Austvik	MFK G2010	10 km	11 år		Male	0:52:32	2:05:00	2:57:32
+210	Håvard Austvik	Håvard	Austvik	MFK G2010	10 km	45-49 år		Male	0:52:32	2:05:00	2:57:32
+214	Matias Mahle	Matias	Mahle	Molde	10 km	23-34 år		Male	1:07:47	2:05:00	3:12:47
+202	Ali Mukhtari	Ali	Mukhtari	MFK G2010	10 km	11 år		Male	DNS		
+203	Anders Olsen	Anders	Olsen	Kristiansund	10 km	40-44 år		Male	DNS		
+207	Egil Stavik Tautra	Egil Stavik	Tautra	Trollveggen TK	10 km	60-64 år	1959	Male	DNS		
+218	Qurban Ali Mukhtari	Qurban	Ali Mukhtari	Molde	10 km	45-49 år		Male	DNS		
+220	Roy Johansen	Roy	Johansen	Molde	10 km	35-39 år		Male	DNS		
+223	Trine Olsen	Trine	Olsen	Kristiansund	10 km	35-39 år		Female	DNS		
+303	Lars Steinar Laingen	Lars Steinar	Laingen	Romsdal Randoneeklubb	5 km	45-49 år	1975	Male	0:18:59	2:10:00	2:29:00
+301	Emil Aslaksen Røed	Emil Aslaksen	Røed	Molde Og Omegn If	5 km	14-15 år		Male	0:19:15	2:10:00	2:29:15
+304	Marianne Standal	Marianne	Standal	Bris Trening	5 km	45-49 år		Female	0:19:58	2:10:00	2:29:58
+302	Jenny Rørset	Jenny	Rørset	Midsund Il	5 km	16-17 år		Female	0:20:07	2:10:00	2:30:07
+305	Håvard Ellingsen			Molde Og Omegn If	5 km	11 år		Male	0:27:43	2:10:00	2:37:43
+306	Leif Gunnar Ellingsen			Molde Og Omegn If	5 km	45-49 år		Male	0:27:44	2:10:00	2:37:44
+103	Fredrik Bru	Fredrik	Bru	Norodd IL	Halvmaraton	23-34 år		Male	1:16:33	2:00:00	3:16:33
+108	Per Myren	Per	Myren	Kristiansund	Halvmaraton	35-39 år		Male	1:19:22	2:00:00	3:19:22
+109	Richard Williamson	Richard	Williamson	Hommelvik IL	Halvmaraton	35-39 år		Male	1:20:15	2:00:00	3:20:15
+101	Bjørn Tore Hoem	Bjørn Tore	Hoem	Molde CK	Halvmaraton	23-34 år		Male	1:21:37	2:00:00	3:21:37
+107	Ole Kristian Myren	Ole Kristian	Myren	Kristiansund	Halvmaraton	23-34 år		Male	1:24:38	2:00:00	3:24:38
+112	Yngve Laingen	Yngve	Laingen	Skaret Skiforening	Halvmaraton	40-44 år		Male	1:28:23	2:00:00	3:28:23
+104	Louise Skak	Louise	Skak	Idrett Uten Alkohol	Halvmaraton	45-49 år		Female	1:31:30	2:00:00	3:31:30
+110	Sigrun Hammer	Sigrun	Hammer	Kristiansund	Halvmaraton	23-34 år		Female	1:34:39	2:00:00	3:34:39
+111	Tim Becker	Tim	Becker	Kristiansund	Halvmaraton	40-44 år		Male	1:37:15	2:00:00	3:37:15
+105	Mari Stubberud	Mari	Stubberud	Ringsaker	Halvmaraton	23-34 år		Female	1:52:52	2:00:00	3:52:52
+106	Mathias Strømmen	Mathias	Strømmen	Molde	Halvmaraton	23-34 år		Male	1:53:20	2:00:00	3:53:20
+102	Espen Strøm	Espen	Strøm	Vti Volda	Halvmaraton	40-44 år		Male	DNS		
+1	Erik Fuglseth	Erik	Fuglseth	ORIVO	Maraton	40-44 år		Male	3:12:49	0:00:00	3:12:49
+4	Paul Johan Undheim	Paul Johan	Undheim	Molde Og Omegn	Maraton	50-54 år		Male	3:26:01	0:00:00	3:26:01
+3	Ole-Erich Haas	Ole-Erich	Haas	Markagaff IL	Maraton	40-44 år		Male	3:29:24	0:00:00	3:29:24
+2	Inge Asbjørn Haugen	Inge Asbjørn	Haugen	Hornindal IL	Maraton	65-69 år		Male	4:48:50	0:00:00	4:48:50

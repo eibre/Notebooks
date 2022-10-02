@@ -1,0 +1,45 @@
+﻿Bib	Name	First name	Last name	Team name	Team name 2	Distance	Category	Gender	Time	Start	Finish
+224	Eivind Monsås			Romsdal Randoneeklubb	Molde	10 km	23-34 år	Male	0:35:24	0:00:00	0:35:24
+208	Børge Godejord	Børge	Godejord	Trondheim & Omeng Sportsklubb	Trondheim	10 km	23-34 år	Male	0:35:32	0:00:00	0:35:32
+212	Atle Smenes	Atle	Smenes	Rustad IL	Oslo	10 km	23-34 år	Male	0:35:33	0:00:00	0:35:33
+204	Torstein Svendsgaard	Torstein	Svendsgaard	-	Molde	10 km	23-34 år	Male	0:37:43	0:00:00	0:37:43
+222	Adam Wojda	Adam	Wojda	Ikke	Kristiansund	10 km	50-54 år	Male	0:37:45	0:00:00	0:37:45
+211	Simon Fylling Øiamo	Simon Fylling	Øiamo	Molde	Molde	10 km	23-34 år	Male	0:37:49	0:00:00	0:37:49
+220	Thomas Sandhaug	Thomas	Sandhaug	Molde og Omegn IF	Molde	10 km	45-49 år	Male	0:37:56	0:00:00	0:37:56
+201	Terje Hellum	Terje	Hjellum	Fræna SK&O	Hustadvika	10 km	45-49 år	Male	0:38:51	0:00:00	0:38:51
+217	Andrea Boutera	Andrea	Boutera	Aurskog-Høland Friidrettslag	Molde	10 km	23-34 år	Female	0:38:55	0:00:00	0:38:55
+223	Jonas Havnes Klemetzen	Jonas Havnes	Klemetzen	Lpt	Molde	10 km	23-34 år	Male	0:39:35	0:00:00	0:39:35
+216	Richard W. Naas	Richard W.	Naas	Landbruksteknikk AS	Hustadvika	10 km	23-34 år	Male	0:39:59	0:00:00	0:39:59
+213	Øyvind Kvernen	Øyvind	Kvernen	Team Drøbak Multisport	Frogn	10 km	50-54 år	Male	0:41:37	0:00:00	0:41:37
+221	Asbjørn Slåttå	Asbjørn	Slåttå	Elnesvågen	Hustadvika	10 km	40-44 år	Male	0:42:41	0:00:00	0:42:41
+210	Tomas Stroop Donnelly	Tomas Stroop	Donnelly	Blindern Rugbyklubb	Oslo	10 km	35-39 år	Male	0:43:03	0:00:00	0:43:03
+209	Nils Kristian Aarsland	Nils Kristian	Aarsland	Kristiansand Løpeklubb	Kristiansand	10 km	55-59 år	Male	0:43:06	0:00:00	0:43:06
+205	Kristin Klokset Øverås	Kristin Klokset	Øverås	Eidsvåg IL	Molde	10 km	23-34 år	Female	0:44:30	0:00:00	0:44:30
+218	Kai Arild Normannseth	Kai Arild	Normannseth	Innlandet	Krristiansund	10 km	45-49 år	Male	0:46:43	0:00:00	0:46:43
+206	Eva Lindseth	Eva	Lindseth	Fjellogfjøs	Hustadvika	10 km	40-44 år	Female	0:46:50	0:00:00	0:46:50
+215	Frank Enstad	Frank	Enstad	Ingen	Averøy	10 km	55-59 år	Male	0:46:59	0:00:00	0:46:59
+214	Kristian Havnes Klemetzen	Kristian Havnes	Klemetzen	Sunnmørsposten	Ålesund	10 km	23-34 år	Male	0:47:26	0:00:00	0:47:26
+203	Roar Hellem	Roar	Hellem	Norodd	Kristiansund	10 km	45-49 år	Male	0:49:14	0:00:00	0:49:14
+207	Anette Lønseth	Anette	Lønseth	Elnesvågen Og  Omegn Idrettslag	Elnesvågen	10 km	23-34 år	Female	0:55:49	0:00:00	0:55:49
+202	Malin Indergård	Malin	Indergård	Romsdalrandoneeklubb	Hustadvika	10 km	16-17 år	Female	DNS		
+219	Anja Alvilde Stafsnes	Anja Alvilde	Stafsnes	-	Kristiansund	10 km	35-39 år	Female	DNS		
+303	Live Solheimdal	Live	Solheimdal	Steinkjer Friidrettsklubb	Molde	5 km	23-34 år	Female	0:16:48	0:00:00	0:16:48
+302	Brage Bjerkeli	Brage	Bjerkeli	Molde og Omegn IF	Molde	5 km	14-15 år	Male	0:17:53	0:00:00	0:17:53
+314	Ingar Folde				Molde	5 km	23-34 år	Male	0:18:37	0:00:00	0:18:37
+306	Aleksander Sørvik Hanssen	Aleksander	Sørvik Hanssen	Molde og Omegn IF	Molde	5 km	35-39 år	Male	0:18:43	0:00:00	0:18:43
+310	Heine Fuglem	Heine	Fuglem	Valldal Il	VALLDAL	5 km	14-15 år	Male	0:19:09	0:00:00	0:19:09
+312	Kolbjørn Hjertvik	Kolbjørn	Hjertvik	Kårvåg I.L.	Averøy	5 km	70-74 år	Male	0:20:41	0:00:00	0:20:41
+307	Erik Hattrem	Erik	Hattrem	Powered By Espen Tønnesen	Molde	5 km	45-49 år	Male	0:20:42	0:00:00	0:20:42
+311	Vilja Fuglem	Vilja	Fuglem	Valldal Il	VALLDAL	5 km	13 år	Female	0:21:58	0:00:00	0:21:58
+309	Ingrid Sandhaug	Ingrid	Sandhaug	Molde og Omegn IF	Molde	5 km	11 år	Female	0:22:12	0:00:00	0:22:12
+301	Arn Buset Bredeli	Arn	Buset Bredeli	Molde Olymp	Molde	5 km	14-15 år	Male	0:23:47	0:00:00	0:23:47
+304	Tora Otilie Lindseth Kvammen	Tora Otilie Lindseth	Kvammen	Fjellogfjøs	Hustadvika	5 km	13 år	Female	0:30:32	0:00:00	0:30:32
+305	Håkon Myrmo	Håkon	Myrmo	Rennebu IL	Hustadvika	5 km	23-34 år	Male	DNS		
+308	Tobias Stafsnes-Tømmervåg	Tobias	Stafsnes-Tømmervåg	-	Kristiansund	5 km	14-15 år	Male	DNS		
+313	Vetle Bjerkeli	Vetle	Bjerkeli	Molde og Omegn IF	Molde	5 km U10	10 år	Male	0:22:06	0:00:00	0:22:06
+106	Ole-Erich Haas	Ole-Erich	Haas	Markagaffe IL	Molde	Halvmaraton	40-44 år	Male	1:25:43	0:00:00	1:25:43
+103	Runar Dahl Røsand	Runar Dahl	Røsand	Averøy Løpeklubb	Averøy	Halvmaraton	40-44 år	Male	1:33:05	0:00:00	1:33:05
+102	Øystein Orset	Øystein	Orset	Torvikbukt IL	Gjemnes	Halvmaraton	45-49 år	Male	1:39:31	0:00:00	1:39:31
+101	Katrine Thomassen	Katrine	Thomassen	-	Molde	Halvmaraton	35-39 år	Female	1:49:24	0:00:00	1:49:24
+105	Mathias Håseth Skotheimsvik	Mathias	Håseth Skotheimsvik	.	Molde	Halvmaraton	23-34 år	Male	1:49:44	0:00:00	1:49:44
+104	Steinar Kristoffersen	Steinar	Kristoffersen	Trollveggen Triathlon Klubb	Molde	Halvmaraton	55-59 år	Male	1:50:04	0:00:00	1:50:04

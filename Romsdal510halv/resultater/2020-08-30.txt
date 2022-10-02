@@ -1,0 +1,54 @@
+﻿Bib	Name	First name	Last name	Team name	Distance	Category	Gender	Time	Lap 1	Lap 2	Start	Split 1	Split 2
+201	Are Moe	Are	Moe	Mowi	10 km	23-34 år	Male	36:06.0	18:03.0	18:03.0	0:00.0	13:57.6	41:06.2
+203	Håkon Tømmervåg	Håkon	Tømmervåg		10 km	23-34 år	Male	37:20.0	37:20.0	-	0:00.0	12:01.7	42:20.5
+206	Knut Kongshaug	Knut	Kongshaug	Kårvåg IL	10 km	45-49 år	Male	37:42.0	19:02.0	18:40.0	0:00.0	25:19.6	42:41.9
+205	Daniel Mahle Nerland	Daniel Mahle	Nerland		10 km	23-34 år	Male	38:47.0	19:37.0	19:10.0	0:00.0	25:55.0	43:47.3
+207	Jan Erik Buan	Jan Erik	Buan	Kristiansund	10 km	45-49 år	Male	39:10.0	19:34.0	19:36.0	0:00.0	25:52.1	44:10.2
+211	Ola Stranden Andersen	Ola	Stranden Andersen	Molde	10 km	23-34 år	Male	39:32.0	39:32.0	-	0:00.0	15:15.4	44:32.3
+204	Andreas Gjærum	Andreas	Gjærum		10 km	23-34 år	Male	39:34.0	19:36.0	19:58.0	0:00.0	14:49.3	44:33.5
+209	Terje Strand	Terje	Strand		10 km	40-44 år	Male	39:36.0	39:36.0	-	0:00.0	-	44:36.4
+213	Tore Humstad	Tore	Humstad	Torvikbukt IL	10 km	40-44 år	Male	39:46.0	19:58.0	19:48.0	0:00.0	26:15.8	44:46.3
+210	Hans Kristian Lyngstad	Hans Kristian	Lyngstad		10 km	35-39 år	Male	39:48.0	20:01.0	19:47.0	0:00.0	26:19.5	44:47.8
+208	Marianne Standal	Marianne	Standal	Bris Trening/Molde Olymp	10 km	45-49 år	Female	40:36.0	20:25.0	20:11.0	0:00.0	26:43.1	45:35.8
+202	Lars Grøtting	Lars	Grøtting	Norodd Triatlon	10 km	23-34 år	Male	41:25.0	20:38.0	20:47.0	0:00.0	26:56.2	46:24.5
+212	Kolbjørn Hjertvik	Kolbjørn	Hjertvik	Kårvåg IL	10 km	65-69 år	Male	41:39.0	20:56.0	20:43.0	0:00.0	27:13.8	46:39.3
+222	Asbjørn Slåttå	Asbjørn	Slåttå	Hustadvika kommune	10 km	35-39 år	Male	42:19.0	21:18.0	21:01.0	0:00.0	27:36.2	47:19.2
+215	Knut Vidar Haukebø Siem	Knut Vidar Haukebø	Siem	Molde og Omegn IF	10 km	35-39 år	Male	42:55.0	21:12.0	21:43.0	0:00.0	15:21.9	47:55.1
+219	Torstein Steffenssen Tjelle	Torstein Steffenssen	Tjelle	Molde	10 km	23-34 år	Male	47:21.0	23:32.0	23:49.0	0:00.0	29:49.8	52:21.1
+216	Knut Ivar Bakkan	Knut Ivar	Bakkan	Hustadvika	10 km	35-39 år	Male	48:50.0	22:57.0	25:53.0	0:00.0	29:15.2	53:49.8
+220	Anja Alvilde Stafsnes	Anja	Alvilde Stafsnes		10 km	35-39 år	Female	50:28.0	24:45.0	25:43.0	0:00.0	31:02.7	55:27.9
+218	Sissel Humstad	Sissel	Humstad	Torvikbukt IL	10 km	40-44 år	Female	51:40.0	26:04.0	25:36.0	0:00.0	32:22.1	56:40.2
+217	Astrid Krane	Astrid	Krane	Torvikbukt IL	10 km	40-44 år	Female	51:41.0	26:03.0	25:38.0	0:00.0	32:21.2	56:40.5
+221	Inger Lauvstad	Inger	Lauvstad		10 km	45-49 år	Female	54:58.0	54:58.0	-	0:00.0	-	59:58.3
+214	Magnus Nygård	Magnus	Nygård	Hustadvika	10 km	23-34 år	Male	DNS					
+301	Sturle Starheim	Sturle	Starheim	Gossen IL	5 km	45-49 år	Male	16:53.0	8:34.0	8:19.0	0:00.0	18:34.1	26:53.1
+318	Aleksander Hansen	Aleksander	Hansen	Norconsult BIL	5 km	35-39 år	Male	19:03.0	10:03.0	9:00.0	0:00.0	20:03.1	29:02.5
+303	Thomas Sandhaug	Thomas	Sandhaug	Molde og Omegn IF	5 km	45-49 år	Male	19:09.0	9:55.0	9:14.0	0:00.0	19:55.5	29:09.2
+304	Henrik Malme	Henrik	Malme	Molde og Omegn IF	5 km	13 år	Male	20:38.0	10:51.0	9:47.0	0:00.0	20:51.0	30:38.0
+305	Einar Vaagen	Einar	Vaagen	Molde og Omegn IF	5 km	40-44 år	Male	21:02.0	4:35.0	16:27.0	0:00.0	14:35.2	31:01.6
+307	Egil Stavik Tautra	Egil Stavik	Tautra	Trollveggen Triathlon Klubn	5 km	60-64 år	Male	21:44.0	10:47.0	10:57.0	0:00.0	20:47.1	31:43.9
+308	Marius Bjørkhaug	Marius	Bjørkhaug	Molde	5 km	40-44 år	Male	22:29.0	11:15.0	11:14.0	0:00.0	21:15.0	32:28.7
+309	Amalie Stavik Tautra	Amalie Stavik	Tautra	Molde	5 km	16-17 år	Female	23:30.0	12:18.0	11:12.0	0:00.0	22:17.5	33:29.8
+319	Runa Lønsethagen Herheim	Runa	Lønsethagen Herheim	SK Træff	5 km	12 år	Female	24:43.0	12:54.0	11:49.0	0:00.0	22:54.0	34:42.7
+311	Siv Haukebø Siem	Siv Haukebø	Siem	Molde og Omegn IF	5 km	35-39 år	Female	25:49.0	13:01.0	12:48.0	0:00.0	23:00.6	35:48.5
+315	Nora Lauvstad Pedersen	Nora	Lauvstad Pedersen		5 km	13 år	Female	27:14.0	13:19.0	13:55.0	0:00.0	23:18.7	37:14.0
+312	Karoline Valle	Karoline	Valle	Ekko/Aureosen IL	5 km	40-44 år	Female	37:01.0	18:28.0	18:33.0	0:00.0	28:28.2	47:00.7
+314	Tobias Stafsnes-Tømmervåg	Tobias	Stafsnes-Tømmervåg		5 km	13 år	Male	46:39.0	22:03.0	24:36.0	0:00.0	32:03.0	56:39.1
+302	Ørjan Bergfalk	Ørjan	Bergfalk	Molde	5 km	23-34 år	Male	DNS					
+306	Frode Holthe	Frode	Holthe	Holmemstranda il	5 km	45-49 år	Male	DNS					
+310	Lillian Maria Langset	Lillian Maria	Langset	Molde	5 km	23-34 år	Female	DNS					
+313	Helena Bringsdal Valle	Helena Bringsdal	Valle	Ekko/Aureosen IL	5 km U10	10 år	Female	37:00.0					
+317	Emilie Klausen	Emilie	Klausen		5 km U10	10 år	Female	37:00.0					
+104	Hågen Fjørkenstad Dypdal	Hågen	Fjørkenstad Dypdal	Bratsberg IL	Halvmaraton	23-34 år	Male	1:21:39.0	41:37.0	40:02.0	0:00.0	41:37.1	1:21:39.4
+101	Torbjørn Eid	Torbjørn	Eid	Trondheim og omegn sportsklubb	Halvmaraton	45-49 år	Male	1:24:35.0	41:50.0	42:44.0	0:00.0	41:50.1	1:24:34.6
+102	Stian Gilberg	Stian	Gilberg	Trondheim	Halvmaraton	23-34 år	Male	1:25:04.0	42:11.0	42:53.0	0:00.0	42:11.4	1:25:04.0
+107	Louise Skak	Louise	Skak	Idrett uten Alkohol/Romerike Ultraløperk	Halvmaraton	40-44 år	Female	1:28:44.0	43:34.0	45:11.0	0:00.0	43:33.5	1:28:44.5
+105	Tore Folland	Tore	Folland	Averøy	Halvmaraton	50-54 år	Male	1:31:42.0	44:20.0	47:22.0	0:00.0	44:20.3	1:31:41.9
+111	Stian Angell	Stian	Angell	Aukra	Halvmaraton	23-34 år	Male	1:37:13.0	45:15.0	51:57.0	0:00.0	45:15.1	1:37:12.5
+109	Øystein Aandahl	Øystein	Aandahl	Kristiansund kommune	Halvmaraton	45-49 år	Male	1:38:47.0	47:47.0	51:01.0	0:00.0	47:46.7	1:38:47.5
+108	Hans Mellemsæther	Hans	Mellemsæther	Kristiansund	Halvmaraton	55-59 år	Male	1:41:26.0	47:46.0	53:40.0	0:00.0	47:46.1	1:41:25.7
+110	Fred Ivar Lyngstad	Fred Ivar	Lyngstad	Noteam	Halvmaraton	55-59 år	Male	1:43:21.0	50:06.0	53:15.0	0:00.0	50:06.2	1:43:21.3
+112	Robert Oshaug	Robert	Oshaug	Bris	Halvmaraton	45-49 år	Male	1:44:41.0	50:55.0	53:45.0	0:00.0	50:55.5	1:44:40.9
+114	Janne Lønsethagen	Janne	Lønsethagen	SK Træff	Halvmaraton	40-44 år	Female	2:15:43.0	1:04:47.0	1:10:56.0	0:00.0	1:04:46.9	2:15:42.5
+103	Mette Eid Løvås	Mette Eid	Løvås	Strindheim	Halvmaraton	45-49 år	Female	DNS					
+106	Arne Årsbog	Arne	Årsbog	Trollveggen triathlon klubb	Halvmaraton	55-59 år	Male	DNS					

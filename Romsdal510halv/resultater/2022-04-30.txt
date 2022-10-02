@@ -1,0 +1,31 @@
+﻿Bib	Name	First name	Last name	Team name	Team name 2	Distance	Category	Gender	Time	Start	Finish
+203	Alexander Stavik	Alexander	Stavik	Elnesvågen	Lillehammer	10 km	35-39 år	Male	0:33:48	0:00:00	0:33:48
+221	David André Aasen Arnevåg	David André Aasen	Arnevåg	Romsdal Randoneeklubb / Mopil/ Cubastole	Molde	10 km	23-34 år	Male	0:33:50	0:00:00	0:33:50
+217	Stian Heggdal Leganger	Stian	Heggdal Leganger	Trollveggen Triathlon Klubb	Molde	10 km	23-34 år	Male	0:37:34	0:00:00	0:37:34
+219	Magne Myrmo	Magne	Myrmo	Rennebu IL	Soknedal	10 km	23-34 år	Male	0:38:44	0:00:00	0:38:44
+224	Richard W. Naas	Richard W.	Naas	Landbruksteknikk AS	Eide	10 km	23-34 år	Male	0:42:35	0:00:00	0:42:35
+223	Sigrun Hammer	Sigrun	Hammer	Kristiansund	Kristiansund	10 km	23-34 år	Female	0:42:39	0:00:00	0:42:39
+220	Oddvar Myrmo	Oddvar	Myrmo	Rennebu IL	Rennebu	10 km	55-59 år	Male	0:44:06	0:00:00	0:44:06
+225	Kjell Hoem	Kjell	Hoem	Osmarka IL	Hustadvika 	10 km	50-54 år	Male	0:47:02	0:00:00	0:47:02
+206	Sindre Hestad Skiri	Sindre	Hestad Skiri	Ingen	Molde	10 km	23-34 år	Male	0:50:29	0:00:00	0:50:29
+320	Johan Farstad	Ledig 5	Ledig 5			10 km	50-54 år	Male	0:51:00	0:00:00	0:51:00
+218	Kristin Slåttelid	Kristin	Slåttelid		Kristiansund	10 km	23-34 år	Female	0:51:53	0:00:00	0:51:53
+6	Mari Langaas	Mari	Langaas	NTNU-BIL	Trondheim	10 km	23-34 år	Female	1:04:30	0:00:00	1:04:30
+5	Heidi Elisabeth Stai	Heidi Elisabeth	Stai	-	Marstrandsgate 11/5	10 km	23-34 år	Female	1:05:54	0:00:00	1:05:54
+322	Matias Mahle	Matias	Mahle		Molde	10 km	23-34 år	Male	1:09:43	0:00:00	1:09:43
+202	Ole Lorentzen	Ole	Lorentzen	Gg	Molde	10 km	50-54 år	Male	DNS		
+308	Live Solheimdal	Live	Solheimdal	Steinkjer Friidrettsklubb	Molde	5 km	23-34 år	Female	0:16:51	0:00:00	0:16:51
+310	Håkon Myrmo	Håkon	Myrmo	Rennebu IL	Eide	5 km	23-34 år	Male	0:18:30	0:00:00	0:18:30
+319	Yngve Laingen	Yngve	Laingen	-	Molde	5 km	40-44 år	Male	0:19:04	0:00:00	0:19:04
+304	Ronny Midttveit	Ronny	Midttveit	-	Molde	5 km	50-54 år	Male	0:20:42	0:00:00	0:20:42
+309	Håvard Kolstad	Håvard	Kolstad	Eidsvåg Il	Molde	5 km	35-39 år	Male	0:21:54	0:00:00	0:21:54
+307	Andreas Kjersem	Andreas	Kjersem	Bryn	Molde	5 km	23-34 år	Male	DNS		
+315	Kolbjørn Hjertvik	Kolbjørn	Hjertvik	Kårvåg	Averøy	5 km	70-74 år	Male	DNS		
+318	Brage Bjerkeli	Brage	Bjerkeli	Moi	Molde	5 km	14-15 år	Male	DNS		
+113	Per Myren	Per	Myren	-	Kristiansund	Halvmaraton	35-39 år	Male	1:19:41	0:00:00	1:19:41
+102	Louise Skak	Louise	Skak	Kondis/Idrett Uten Alkohol	Fjord	Halvmaraton	45-49 år	Female	1:37:11	0:00:00	1:37:11
+109	Eva Lindseth	Eva	Lindseth	Fjellogfjøs	Hustadvika 	Halvmaraton	40-44 år	Female	1:44:16	0:00:00	1:44:16
+115	Håvard Austvik	Håvard	Austvik	-	Molde	Halvmaraton	45-49 år	Male	1:48:23	0:00:00	1:48:23
+114	Silje Hårberg	Silje	Hårberg	IL Norodd	Kristiansund	Halvmaraton	45-49 år	Female	1:59:36	0:00:00	1:59:36
+108	Anne Jorunn Vatne	Anne Jorunn	Vatne	Ingen	Hustadvika 	Halvmaraton	40-44 år	Female	2:01:50	0:00:00	2:01:50
+110	Torstein Steffenssen Tjelle	Torstein Steffenssen	Tjelle	Ingen	Molde	Halvmaraton	23-34 år	Male	2:21:47	0:00:00	2:21:47
