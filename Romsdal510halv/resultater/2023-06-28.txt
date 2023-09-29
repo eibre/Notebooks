@@ -1,0 +1,50 @@
+﻿Bib	Name	First name	Last name	Team name	Team name 2	Distance	Category	Gender	Time	Start	Finish
+222	Thomas Berge Foyn			Romsdal Randoneklubb	Molde	10 km	23-34 år	Male	0:34:45	0:00:00	0:34:45
+210	Per Myren	Per	Myren	IL Norodd	Kristiansund	10 km	35-39 år	Male	0:35:47	0:00:00	0:35:47
+216	Andrea Toft Boutera	Andrea Toft	Boutera	Aurskog-Høland Friidretslag	Molde	10 km	23-34 år	Female	0:37:54	0:00:00	0:37:54
+201	Kristian Hovik	Kristian	Hovik	Trollveggen triatlonklubb	Molde	10 km	23-34 år	Male	0:38:14	0:00:00	0:38:14
+212	Adam Wojda	Adam	Wojda	Designlab	Kristiansund	10 km	50-54 år	Male	0:38:39	0:00:00	0:38:39
+207	Thomas Sandhaug	Thomas	Sandhaug	Moi	Molde	10 km	45-49 år	Male	0:38:47	0:00:00	0:38:47
+217	Jonas Havnes Klemetzen	Jonas Havnes	Klemetzen	LPT	Molde	10 km	23-34 år	Male	0:39:22	0:00:00	0:39:22
+215	Tom Fredrik Iversen	Tom Fredrik	Iversen	Romsdal Randoneeklubb	Molde	10 km	35-39 år	Male	0:39:26	0:00:00	0:39:26
+202	Torstein Svendsgaard	Torstein	Svendsgaard	Axess	Molde	10 km	23-34 år	Male	0:39:56	0:00:00	0:39:56
+214	Yngvild Elvemo	Yngvild	Elvemo	Molde	Molde	10 km	23-34 år	Female	0:41:40	0:00:00	0:41:40
+209	Emilia Limon Guerra	Emilia	Limon Guerra	Molde Cykkelklubb	Molde	10 km	16-17 år	Female	0:43:26	0:00:00	0:43:26
+221	Bjarne Johansen	Bjarne	Johansen	Klo Sportsklubb	Sortland	10 km	35-39 år	Male	0:43:45	0:00:00	0:43:45
+213	Frida Cecilie Elvemo	Frida Cecilie	Elvemo	Årøgymmen	Molde	10 km	23-34 år	Female	0:44:55	0:00:00	0:44:55
+223	Linn Farstad			Farstad traktor og ski	Molde	10 km	16-17 år	Female	0:47:45	0:00:00	0:47:45
+219	Liv Skjørsæter	Liv	Skjørsæter	#Teamikkjetam	Molde	10 km	45-49 år	Female	0:48:07	0:00:00	0:48:07
+203	Cecilie Utstumo	Cecilie	Utstumo	Mopil	Molde	10 km	35-39 år	Female	0:48:09	0:00:00	0:48:09
+206	Anette Lønseth	Anette	Lønseth	EOIL	Hustadvika	10 km	23-34 år	Female	0:50:50	0:00:00	0:50:50
+204	Randi Anita Dale	Randi Anita	Dale	Ingen Klubb	Hustadvika	10 km	40-44 år	Female	0:51:06	0:00:00	0:51:06
+208	Mari Sletvold Øverli	Mari	Sletvold Øverli	EOIL	Hustadvika	10 km	35-39 år	Female	0:52:18	0:00:00	0:52:18
+205	Peder Ringdal	Peder	Ringdal	Måndalen IL	Rauma	10 km	75-79 år	Male	1:02:56	0:00:00	1:02:56
+211	Janne Lønsethagen	Janne	Lønsethagen	Bris Trening	Molde	10 km	45-49 år	Female	1:03:17	0:00:00	1:03:17
+218	Jenny S. Sommernes	Jenny S.	Sommernes	Bud IL	Hustadvika	10 km	23-34 år	Female	1:09:31	0:00:00	1:09:31
+220	Florian Aresvik	Florian	Aresvik	Ekko/Aureosen IL	Aukra	10 km	35-39 år	Male	DNS		
+303	Johan Fredriksen Orseth	Johan	Fredriksen Orseth	Torvikbukt IL	Gjemnes	5 km	20-22 år U23	Male	0:17:06	0:00:00	0:17:06
+307	Benjamin Werner	Benjamin	Werner	Trollveggen Triatlon Klubb	Molde	5 km	35-39 år	Male	0:17:10	0:00:00	0:17:10
+313	Øystein Raustøl Dahle	Øystein Raustøl	Dahle	MOI-Orientering	Molde	5 km	16-17 år	Male	0:18:15	0:00:00	0:18:15
+308	Øyvind Bugge	Øyvind	Bugge	Eidsvåg IL	Molde	5 km	35-39 år	Male	0:18:24	0:00:00	0:18:24
+312	Øyvind Vibe-Rheymer Nilssen	Øyvind Vibe-Rheymer	Nilssen	Panelbygg AS	Holmestrand	5 km	40-44 år	Male	0:18:31	0:00:00	0:18:31
+306	Ingrid Sandhaug	Ingrid	Sandhaug	Molde og Omegn IF	Molde	5 km	12 år	Female	0:20:13	0:00:00	0:20:13
+314	Kolbjørn Hjertvik	Kolbjørn	Hjertvik	Kårvåg I.L.	Averøy	5 km	70-74 år	Male	0:20:36	0:00:00	0:20:36
+304	Johan Farstad	Johan	Farstad	Trollveggen triatlonklubb	Molde	5 km	50-54 år	Male	0:21:49	0:00:00	0:21:49
+302	Hanne Karin Høgset	Hanne Karin	Høgset	Torvikbukt IL	Gjemnes	5 km	40-44 år	Female	0:24:40	0:00:00	0:24:40
+309	Lillian Langset	Lillian	Langset	Eidsvåg IL	Molde	5 km	35-39 år	Female	0:25:10	0:00:00	0:25:10
+315	Egil Stavik Tautra			Troll	Trollveggen TK	5 km	60-64 år	Male	0:26:15	0:00:00	0:26:15
+310	Alida Trondsen	Alida	Trondsen	-	Molde	5 km	23-34 år	Female	0:27:09	0:00:00	0:27:09
+305	Benedicte Åndal	Benedicte	Åndal	-	Hustadvika	5 km	23-34 år	Female	0:30:10	0:00:00	0:30:10
+311	Ida Hagerup	Ida	Hagerup	-	Hustadvika	5 km	23-34 år	Female	0:40:44	0:00:00	0:40:44
+316	Åshild Widme Lysgård			Norodd IL		5 km	35-39 år	Female	DNS		
+301	Magnus Bruseth	Magnus	Bruseth	Molde og Omegn IF	Gjemnes	5 km U10	10 år	Male	0:22:22		
+108	Håvard Wikan	Håvard	Wikan	Udir BIL	Molde	Halvmaraton	23-34 år	Male	1:25:00	0:00:00	1:25:00
+110	Joakim Lokna			Axess	Molde	Halvmaraton	23-34 år	Male	1:31:54	0:00:00	1:31:54
+102	Jan-Eivind Holsen	Jan-Eivind	Holsen	Åsen Ultra	Kristiansund	Halvmaraton	23-34 år	Male	1:32:05	0:00:00	1:32:05
+106	Runar Røsand	Runar	Røsand	Averøy Løpeklubb	Averøy	Halvmaraton	40-44 år	Male	1:33:40	0:00:00	1:33:40
+105	Arne Årsbog	Arn	Årsbog	Romsdal Randoneklubb	Molde	Halvmaraton	55-59 år	Male	1:41:09	0:00:00	1:41:09
+109	Frank Rokstad	Frank	Rokstad	Molde	Molde	Halvmaraton	50-54 år	Male	1:41:29	0:00:00	1:41:29
+107	Knut Olav Sommernes	Knut Olav	Sommernes	Sandnes IL	Sør-Varanger	Halvmaraton	23-34 år	Male	1:42:01	0:00:00	1:42:01
+103	Marcus Fuglestad	Marcus	Fuglestad	Ingen	Sandnes	Halvmaraton	20-22 år U23	Male	1:46:20	0:00:00	1:46:20
+101	Jostein R. Hareide	Jostein R.	Hareide	Team Cecilie	Molde	Halvmaraton	50-54 år	Male	1:48:55	0:00:00	1:48:55
+104	June Fladby	June	Fladby	-	Hustadvika	Halvmaraton	20-22 år U23	Female	DNF	0:00:00	-
